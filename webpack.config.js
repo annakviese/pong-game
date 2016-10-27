@@ -57,5 +57,6 @@ module.exports = {
 	plugins: [
 		new webpack.HotModuleReplacementPlugin(),
 		new OpenBrowserPlugin({ url: 'http://localhost:8080/webpack-dev-server/bundle'}),
-	]
-};
+  ]
+}
+
