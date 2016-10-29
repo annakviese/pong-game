@@ -1,3 +1,4 @@
+
 export default class Board {
     constructor(height, width){
         this.height = height;

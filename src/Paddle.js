@@ -1,8 +1,8 @@
 export default class Paddle {
   constructor(boardHeight, x, color, keys) {
     this.width = 5;
-    this.height = 50;
-    this.speed = 5;
+    this.height = 40;
+    this.speed = 6;
     this.color = color;
     this.x = x;
     this.boardHeight = boardHeight;

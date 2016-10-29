@@ -9,6 +9,5 @@ const fps = 30;
 // self invoking function
 (function gameLoop() {
     game.render();
-    // console.log('hope?')
     setTimeout(gameLoop, fps);
 }());
