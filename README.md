@@ -43,9 +43,10 @@ gameAudio by vikuserro ( http://www.freesound.org/people/vikuserro/sounds/265549
 
 
 # Improvements
-* Background image could be added both to the page itself and the game board. 
-* The paddles and the ball could be changed to an image.
-* The pong game could have a Start button to click before starting the Game.
+* Create a delay in game reset
+* Background image could be added both to the page itself and the game board
+* The paddles and the ball could be changed to an image
+* The pong game could have a Start button to click before starting the Game
 * The pong game could ask for the Players names
 * The ball speed could increase after a number of rounds
 * The balls could multiply after a number of rounds 
