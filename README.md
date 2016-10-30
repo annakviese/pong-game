@@ -1,19 +1,20 @@
 # Pong Game
 
-A basic pong game using HTML5 Canvas.
+This is a basic pong game that was created using HTML5 Canvas.
+The game allows 2 players and has a score board. 
+Audio sounds are triggered on ball bounces, goals, and paddles. 
 
-## Setup
+#Setup
 
-##### Install
+####Install
 
-`> npm i`
+> npm i
 
-##### Run
+####Run
 
-`> npm start`
+> npm start
 
-## Keys
-
+# Keys 
 ##### Player 1:
 * a: up
 * z: down
@@ -23,3 +24,29 @@ A basic pong game using HTML5 Canvas.
 * ▲ : up
 * ▼: down
 * /: fire a new ball
+
+# Technology used 
+* Javascript
+* ES6 
+* HTML Canvas
+* HTML 5
+* CSS
+* Webpack 
+* Babel
+
+# Sounds used 
+
+This game uses uses sounds from freesound:
+
+goalSound by notchfilter ( http://www.freesound.org/people/notchfilter/sounds/43696/ )
+gameAudio by vikuserro ( http://www.freesound.org/people/vikuserro/sounds/265549/)
+
+
+# Improvements
+* Background image could be added both to the page itself and the game board. 
+* The paddles and the ball could be changed to an image.
+* The pong game could have a Start button to click before starting the Game.
+* The pong game could ask for the Players names
+* The ball speed could increase after a number of rounds
+* The balls could multiply after a number of rounds 
+
