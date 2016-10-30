@@ -1,5 +1,8 @@
-# Pong Game
 
+# Pong Game
+![Alt text](https://github.com/annakviese/instanews/blob/master/documentation/images/Screen%20Shot%202016-10-17%20at%209.45.40%20PM.png?raw=true)
+
+# About 
 This is a basic pong game that was created using HTML5 Canvas.
 The game allows 2 players and has a score board. 
 Audio sounds are triggered on ball bounces, goals, and paddles. 
