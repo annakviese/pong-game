@@ -1,6 +1,6 @@
 
 # Pong Game
-![Alt text](https://github.com/annakviese/instanews/blob/master/documentation/images/Screen%20Shot%202016-10-17%20at%209.45.40%20PM.png?raw=true)
+![Alt text](https://github.com/annakviese/pong-game/blob/master/documentation/images/pong-game.png)
 
 # About 
 This is a basic pong game that was created using HTML5 Canvas.
