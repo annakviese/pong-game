@@ -39,7 +39,7 @@ Audio sounds are triggered on ball bounces, goals, and paddles.
 
 # Sounds used 
 
-This game uses uses sounds from freesound:
+This game uses sounds from freesound:
 
 * goalSound by notchfilter ( http://www.freesound.org/people/notchfilter/sounds/43696/ )
 * gameAudio by vikuserro ( http://www.freesound.org/people/vikuserro/sounds/265549/)
