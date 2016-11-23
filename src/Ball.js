@@ -8,8 +8,8 @@ export default class Ball {
         this.boardWidth = boardWidth;
         this.size = size;
         this.speed = 4;
-        this.vy = Math.floor(Math.random() * 12 - 6); // y direction
-        this.vx = (7 - Math.abs(this.vy)); // x direction
+        this.vy = 4; // y direction
+        this.vx = 4; // x direction
         this.reset();
     }
 
@@ -48,12 +48,12 @@ export default class Ball {
             this.reset();
             goalSound.play();
             p1Score.score++;
-            this.vx = (7 - Math.abs(this.vy));
+            this.vx = 4;
         }else if (this.x >= game.width){
             this.reset();
             goalSound.play();
             p2Score.score++;
-            this.vx = (-7 - Math.abs(this.vy));
+            this.vx = -4;
         }
     }
     

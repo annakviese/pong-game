@@ -5,7 +5,7 @@ import Ball from './Ball';
 import ScoreBoard from './ScoreBoard';
 
 const gap = 10;
-let gameAudio = new Audio ('sounds/game-audio.mp3');
+
 
 export default class Game {
 	constructor() {
@@ -30,6 +30,5 @@ export default class Game {
 		this.p1Score.render(this.context)
 		this.p2Score.render(this.context)
 		this.ball.render(this.context, this.p1, this.p2, this.p1Score, this.p2Score)
-		gameAudio.play()
 }
 }
